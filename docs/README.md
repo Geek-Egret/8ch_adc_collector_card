@@ -16,7 +16,6 @@ ROOT
 ├─example       参考文件
 ├─firmware      产品固件
 ├─hardware      产品硬件文件
-├─software      产品上位机文件
 └─produce       产品生产文件
 ```
 | 文件夹说明链接 |
@@ -25,7 +24,6 @@ ROOT
 | [example](../example/docs/README.md) |
 | [firmware](../firmware/docs/README.md) |
 | [hardware](../hardware/docs/README.md) |
-| [software](../software/docs/README.md) |
 | [produce](../produce/docs/README.md) |
 
 ### 版本说明
